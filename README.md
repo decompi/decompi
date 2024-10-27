@@ -1,1 +1,1 @@
-![decompi's GitHub stats](https://github-readme-stats.vercel.app/api?username=decompi&show_icons=true&theme=tokyonight)
+![decompi's GitHub stats](https://github-readme-stats.vercel.app/api?username=decompi&include_all_commits=true)
